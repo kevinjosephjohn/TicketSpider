@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/kevinjosephjohn/TicketSpider#readme",
   "dependencies": {
+    "moment": "^2.24.0",
     "requests": "^0.2.2",
     "telegram-bot-api": "^1.3.3",
     "twilio": "^3.30.3"
