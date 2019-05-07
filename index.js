@@ -8,7 +8,7 @@ const accountSid = 'xxxxxxxxxxxxxxx'; // Your Account SID from www.twilio.com/co
 const authToken = 'xxxxxxxxxxxxxxxxxxx'; // Your Auth Token from www.twilio.com/console
 
 
-Telegram Credentials
+//Telegram Credentials
 var telegramapi = new telegram({
         token: 'XXXXXXXXXX',
         updates: {
